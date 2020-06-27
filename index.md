@@ -6,3 +6,7 @@ Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter! Aufgabe 2 erste
 * alt
 * nett
 + gut gelaunt
+
+bg erzaehlt:
+> dies ist ein schoener Tag 
+> ich werde ihn geniessen
